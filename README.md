@@ -4,6 +4,4 @@
 
 
 
-## Introduction
-
 ### Section 1
