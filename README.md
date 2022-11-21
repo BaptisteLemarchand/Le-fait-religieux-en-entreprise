@@ -6,7 +6,6 @@
 
 ## Un baromètre sur le "fait religieux" : une tentative d'objectivité qui fait face à un biais culturel important
 
-text-align:justify
 
 Le Baromètre du fait religieux en entreprise est un baromètre réalisé par le chercheur Lionel Honoré depuis 2012, et publié chaque année par l’Institut Montaigne depuis 2019. Anciennement fruit d’une collaboration avec Randstad, le baromètre est désormais pris en charge par l’Institut Montaigne, think tank de tradition libérale. Selon un employé de l’Institut Montaigne que nous avons pu interviewé dans le cadre de ce projet et que nous citerons au cours de notre analyse (interview IM), l’Institut Montaigne a choisi de reprendre la publication de ce baromètre pour trois raisons principales. D’une part, cette étude rentrait dans le cadre de son ambition d’étudier le phénomène religieux sous différents aspects depuis 2015, avec la publication de rapports tels que “Discriminations religieuses à l’embauche : une réalité” (Octobre 2015) ou encore “Un Islam français est possible” (Septembre 2016). D’autre part, un tel rapport a souvent un écho médiatique qui offre une plateforme intéressante pour un think tank tel que l’Institut Montaigne. Enfin, les entreprises adhérentes de ce think tank qui financent presque intégralement ses frais de fonctionnement sont très intéressées par ce baromètre qui leur permet de “prendre la température” (interview IM) de la place de la religion dans le fonctionnement de leurs équipes.
 
