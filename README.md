@@ -36,6 +36,14 @@ L’interview avec l’institut Montaigne nous permet d’apprendre que les entr
 
 Bien que le rapport ne dévoile pas les formulations exactes des questions posées, il précise toutefois que « le questionnaire est structuré et composé de manière à récolter des données permettant d’analyser:  (1) l’importance du fait religieux, sa fréquence, son évolution, (2) ses formes de manifestation et leurs évolutions, (3) les modes de comportements d’expression de leur religiosité par les salariés pratiquants, (4) son impact sur les relations de travail entre collègues et dans le cadre des relations hiérarchiques et managériales, (5) son impact sur le fonctionnement organisationnel et l’action managériale, (6) sa prise en compte par le management et l’impact de cette variable sur les éléments précédents, (7) les processus de gestion des situations mis en oeuvre, (8) sa prise en compte par la mise en place de dispositifs organisationnels, (9) l’impact de la situation de travail des managers sur les éléments précédents, et (10) l’impact des postures des managers par rapport à la religion sur les éléments précédents. » 
 
+Ces 10 éléments sont ensuite regroupés en 5 variables différentes : 
+  - “densité”: densité du fait religieux dans la situation de travail et de management
+  - “management”: prise en compte du fait religieux dans la pratique managériale
+  - “comportement”: les comportements des salariés qui expriment leur religiosité au travail
+  - “organisation”: le dispositif organisationnel de cadrage du fait religieux 
+  - “dysfonctionnement” : les dysfonctionnements organisationnels liés au fait religieux. 
+
+
 
 ### Caractéristiques de l'étude
 
