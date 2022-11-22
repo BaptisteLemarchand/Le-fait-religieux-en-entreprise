@@ -1,6 +1,6 @@
-# Enquête sur la vie sociale des données : baromètre du fait religieux en entreprise
+# Enquête sur la Vie Sociale des données : le Baromètre du Fait Religieux en Entreprise de l'Institut Montaigne
 
-Cette enquête a été réalisée dans le cadre de la formation commune intitulée "La Vie Sociale des Données", enseignée par Dominique Cardon et Jean-Philippe Cointet à Sciences Po Paris, durant le semestre d'automne 2022. Elle a été conduite par Anja Helliot, Camille Hopmann, Francois Holys et Baptiste Lemarchand et porte son attention sur le Baromètre du Fait Religieux en Entreprise, publié en 2021. 
+Cette enquête a été réalisée dans le cadre de la formation commune intitulée "La Vie Sociale des Données", enseignée par Dominique Cardon et Jean-Philippe Cointet à Sciences Po Paris, durant le semestre d'automne 2022. Elle a été conduite par Anja Helliot, Camille Hopmann, Francois Jolys et Baptiste Lemarchand et porte son attention sur le [Baromètre du Fait Religieux en Entreprise]([url](https://www.institutmontaigne.org/publications/religion-au-travail-croire-au-dialogue-barometre-du-fait-religieux-en-entreprise-2020-2021?fbclid=IwAR0wc-gHbmbTBvyO-w8zrRLnnlKGnT-Ym29B0RSml5I-YWdiv7zfc3mBbHA#faq12545_1)), publié en 2021. 
 
 
 
