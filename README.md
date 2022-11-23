@@ -16,7 +16,7 @@ Le concepteur de ce baromètre, Lionel Honoré, adopte une méthodologie similai
 
 ![Image1](https://user-images.githubusercontent.com/118376674/203600301-e3ae0e71-9b1f-47a9-a9fc-484439129027.jpg)
 
-Lionel Honoré, auteur du Baromètre, reçu par Xerfi Canal pour parler de l’intensification du fait religieux en entreprise. 23 mars 2020. https://www.xerficanal.com/iqsog/emission/Lionel-Honore-Le-management-face-a-l-intensification-du-fait-religieux-en-entreprise_3748336.html 
+*Lionel Honoré, auteur du Baromètre, reçu par Xerfi Canal pour parler de l’intensification du fait religieux en entreprise. 23 mars 2020.* https://www.xerficanal.com/iqsog/emission/Lionel-Honore-Le-management-face-a-l-intensification-du-fait-religieux-en-entreprise_3748336.html 
 
 
 Le contexte culturel dans lequel a été réalisée cette étude est très important à prendre en compte pour en analyser la méthodologie, les résultats et la perception dans les médias ou par les entités auxquelles elle s’adresse (entreprises, pouvoirs publics). Selon la personne que nous avons interviewée, c’est précisément parce que la France est un pays laïc que ce baromètre est utile et intéressant. Dans un pays où le concept de “religion” peut rapidement devenir un sujet contentieux, il est parfois difficile d’accéder à un panorama précis de la réalité du « fait religieux » au sein de la société par crainte de contrevenir à des principes juridiques tels que la « neutralité » de l’État ou à des normes culturelles telle que la nature « privée » et « personnelle » de la croyance religieuse. Ces problématiques sont particulières à la France et complètement étrangères à d’autres pays pourtant proches tel que le Royaume-Uni. Cette ambition de neutralité de l’étude est cependant questionnable et fera l’objet d’une analyse critique dans ce projet. 
@@ -63,21 +63,21 @@ Ainsi, le Baromètre du fait religieux en entreprise reflète parfaitement les t
 
 ![Image2](https://user-images.githubusercontent.com/118376674/203600346-e858d452-84c4-476e-b5ad-25da75cfd89d.png)
 
-p. 26 et 27 du rapport de l’Institut Montaigne avec chaque terme se référant à l’islam surligné en jaune - illustrant bien le focale du rapport sur la religion musulmane. 
+*p. 26 et 27 du rapport de l’Institut Montaigne avec chaque terme se référant à l’islam surligné en jaune - illustrant bien le focale du rapport sur la religion musulmane.* 
 
 
 
 
 <img width="451" alt="Image3" src="https://user-images.githubusercontent.com/118376674/203600576-74da104e-4b9b-4a9e-a503-400a8630d819.png">
 
-Camembert créé sur Excel, à partir de la phrase suivante du rapport: “La religion la plus fréquente est l’islam, présente dans 73 % des situations observées. Le catholicisme est présent dans 20 % des situations, le judaïsme dans 15 % et la religion évangélique dans 13 % des situations observées.”
+*Camembert créé sur Excel, à partir de la phrase suivante du rapport: “La religion la plus fréquente est l’islam, présente dans 73 % des situations observées. Le catholicisme est présent dans 20 % des situations, le judaïsme dans 15 % et la religion évangélique dans 13 % des situations observées.”*
 
 
 
 
 <img width="288" alt="Image4" src="https://user-images.githubusercontent.com/118376674/203600595-424d89d6-dfe7-4cf9-babc-a5057b0e44c2.png">
 
-Camembert créé sur Excel à partir de la phrase suivante du rapport: “Un peu plus d’une personne sur cinq repère des situations de discrimination au travail. La discrimination touche les pratiquants de toutes les religions. Mais à l’embauche (20 % des cas de discrimination), c’est l’islam qui est la religion la plus touchée (70 % des situations de discrimination à l’embauche).”
+*Camembert créé sur Excel à partir de la phrase suivante du rapport: “Un peu plus d’une personne sur cinq repère des situations de discrimination au travail. La discrimination touche les pratiquants de toutes les religions. Mais à l’embauche (20 % des cas de discrimination), c’est l’islam qui est la religion la plus touchée (70 % des situations de discrimination à l’embauche).”*
 
 
 
