@@ -102,3 +102,26 @@ Cette étude est en effet la seule qui existe en France sur le sujet, c’est do
 ## Conclusion
 
 Le Baromètre du fait religieux en entreprise permet d’aborder un sujet peu étudié et source de tensions en France. Il a été établi grâce à une approche quantitative, complétée par une enquête de terrain. Cet indicateur est très utilisé, à la fois par les autorités publiques et les entreprises qui tentent d’adapter leur management. L’auteur de l’étude, Lionel Honoré, professeur des universités en sciences de gestion, aborde ce sujet en tentant de se focaliser uniquement sur les données, sans idées préconçues. Néanmoins, la lecture de l’étude met en avant un biais “culturel” important, à savoir la considération du fait religieux comme un problème, provenant du poids majeur de la laïcité en France. En ce sens, le baromètre reflète parfaitement les tendances actuelles de la recherche sur le fait religieux en entreprise, et permet aux autres chercheurs d'accéder à une base de données crédibles sur les impacts du fait religieux en entreprise. Toutefois, le rapport ne permet aucune avancée sur les recherches portant sur les ressources que peuvent représenter les religions au travail. Certains termes utilisés représentent, de manière involontaire, une orientation biaisée de l’étude. Enfin, certaines données chiffrées, dénuées de leur contexte, sont utilisées par certains médias afin de stigmatiser certaines personnes en raison de leur appartenance religieuse. Ce n’est évidemment pas le but de cette enquête, mais il est très fréquent que des données issues d'analyses chiffrées concernant des faits de société soient reprises par les médias, qui utilisent uniquement certains chiffres afin de défendre leurs idéaux. Cette enquête n’a cependant pas été influencée par le risque que leurs données soient reprises à des fins médiatiques ou politiques, si ce n’est une certaine volonté à travers le rapport de rester le plus impartial possible concernant les données analysées. Cette étude diffère cependant des études anglo-saxonnes car elle cherche à limiter le scandale, en évitant de relier religion et sujets de société sources de débat.
+
+
+## Bibliographie 
+
+* Honoré, L. 2021. Religion au Travail: croire au dialogue: Baromètre du Fait Religieux en Entreprise, Institut Montaigne. https://www.institutmontaigne.org/publications/religion-au-travail-croire-au-dialogue-barometre-du-fait-religieux-en-entreprise-2020-2021?fbclid=IwAR0wc-gHbmbTBvyO-w8zrRLnnlKGnT-Ym29B0RSml5I-YWdiv7zfc3mBbHA#faq12545_1
+
+
+* Volia, J-C., Guillet, O., et Gaillard H., 2022. « Fait religieux au travail: vers une structuration d’un objet d’étude en GRH ? De la Spécificité au contexte français », @GRH
+https://www.cairn.info/revue-agrh1-2022-1-page-139.htm 
+
+* Saghal, N. 2018. « 10 Key Findings About Religion in Western Europe », Pew Research Center.  https://www.pewresearch.org/fact-tank/2018/05/29/10-key-findings-about-religion-in-western-europe/ 
+
+* Gautier, M. 2022. « La Religion en France: Faits et Chiffres », Statista. 
+https://fr.statista.com/themes/3234/la-religion-en-france/#topicHeader__wrapper 
+
+* Auteur inconnu. 2019. « Étude sur L’expression et la Visibilité Religieuses dans l’Espace Public Aujourd’hui en France » , Observatoire de la Laïcité. 
+https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2019/07/etudesurlavisibilitereligieuse.pdf 
+
+* Vieillard-Baron, H. 2016. « L’Islam en France: Dynamiques, Fragmentations et Perspectives », Informations Géographiques. 
+https://www.cairn.info/revue-l-information-geographique-2016-1-page-22.htm 
+
+* Cardon, D. et Cointet, J-P. 2022. « La Vie Sociale des Données » Sciences Po Paris. 
+
