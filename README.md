@@ -67,9 +67,11 @@ p. 26 et 27 du rapport de l’Institut Montaigne avec chaque terme se référant
 
 
 
+
 <img width="451" alt="Image3" src="https://user-images.githubusercontent.com/118376674/203600576-74da104e-4b9b-4a9e-a503-400a8630d819.png">
 
 Camembert créé sur Excel, à partir de la phrase suivante du rapport: “La religion la plus fréquente est l’islam, présente dans 73 % des situations observées. Le catholicisme est présent dans 20 % des situations, le judaïsme dans 15 % et la religion évangélique dans 13 % des situations observées.”
+
 
 
 
